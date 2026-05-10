@@ -11,27 +11,24 @@
     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 
-  <a href="mailto:annabeatriz_beserra@outlook.com">
+  <a href="https://instagram.com/blbeserra/">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+
+  <a href="mailto:annabeatriz_beserra@outlook.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
   <br />
+  <h3>About Me</h3>
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pug.png" width="200" align="Right" alt="Pug">
+  <ul align="left">
+    🎓 Data Science graduate at Fatec Santana de Parnaíba. I like working with data—even though it drives me crazy most of the time! It’s what allows me to keep learning and constantly evolving. That’s why I’m currently diving deep into DataOps, Governance & Quality. <br/> 
+I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite a while now. <br/>
 
-  <table border="0">
-    <tr>
-      <td width="70%" valign="top">
-        <h3>About Me</h3>
-        <ul>
-          <li>🎓 Degree in Data Science at FATEC Santana de Parnaíba (6/6)</li>
-          <li>🔎 Data Projects focused on transforming business needs into data-driven strategic flows</li>
-        </ul>
-      </td>
-      <td width="30%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pug.png" width="200" alt="Pug">
-      </td>
-    </tr>
-  </table>
+    🔎 Here you’ll find Data Projects I’ve developed (or am currently building) as part of my learning journey.
+  </ul>
 </div>
 
 ### 🛠️ Tech Stack
