@@ -65,6 +65,8 @@
 **Other Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/docker.png" width="45" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/airflow.png" width="45" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/gcs.png" width="45" alt="Docker" />
 </p>
 
 **Frequent Libs & Frameworks**
