@@ -33,19 +33,19 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 <div align="center">
    <h3>🛠️ Tech Stack</h3>
 
-<h4>Business Intelligence</h4>
+**Business Intelligence**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pbi.png" width="45" alt="Power BI" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/looker-studio.png" width="45" alt="Looker Studio" />
 </p>
 
-<h4>Languages**</h4>
+**Languages**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Python" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sql.png" width="45" alt="SQL" />
 </p>
 
-<h4>Data Bases & Cloud</h4>
+**Data Bases & Cloud**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/gcs.png" width="45" alt="gcs" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sql-server.png" width="45" alt="SQL Server" />
@@ -55,20 +55,20 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/firebase.png" width="45" alt="Firebase" />
 </p>
 
-<h4>Automation</h4>
+**Automation**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/make.png" width="45" alt="Make" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/n8n.png" width="45" alt="n8n" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Scripts Automation" />
 </p>
 
-<h4>Other Tools</h4>
+**Other Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/docker.png" width="45" alt="Docker" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/airflow.png" width="45" alt="airflow" />
 </p>
 
-<h4>Frequent Libs & Frameworks</h4>
+**Frequent Libs & Frameworks**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sklearn.png" width="45" alt="Scikit-Learn" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pandas.png" width="45" alt="Pandas" />
