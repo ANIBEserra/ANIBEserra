@@ -26,7 +26,6 @@
   <ul align="left">
     🎓 Data Science graduate at Fatec Santana de Parnaíba. I like working with data—even though it drives me crazy most of the time! It’s what allows me to keep learning and constantly evolving. That’s why I’m currently diving deep into DataOps, Governance & Quality. <br/> 
 I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite a while now. <br/>
-
     🔎 Here you’ll find Data Projects I’ve developed (or am currently building) as part of my learning journey.
   </ul>
 </div>
