@@ -36,29 +36,29 @@
 
 **Business Intelligence**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pbi.png" width="45" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pbi.png" width="45" alt="Power BI" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/looker-studio.png" width="45" alt="Looker Studio" />
 </p>
 
 **Languages**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Python" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sql.png" width="45" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sql.png" width="45" alt="SQL" />
 </p>
 
 **Data Bases & Cloud**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sql-server.png" width="45" alt="SQL Server" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/big-query.png" width="45" alt="BigQuery" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/postgres.png" width="45" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sql-server.png" width="45" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/big-query.png" width="45" alt="BigQuery" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/postgres.png" width="45" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/mongodb.png" width="45" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/firebase.png" width="45" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/firebase.png" width="45" alt="Firebase" />
 </p>
 
 **Automation**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/make.png" width="45" alt="Make" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/n8n.png" width="45" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/make.png" width="45" alt="Make" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/n8n.png" width="45" alt="n8n" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Scripts Automation" />
 </p>
 
@@ -69,10 +69,10 @@
 
 **Frequent Libs & Frameworks**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sklearn.png" width="45" alt="Scikit-Learn" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pandas.png" width="45" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/numpy.png" width="45" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/seaborn.png" width="45" alt="Seaborn" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sklearn.png" width="45" alt="Scikit-Learn" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pandas.png" width="45" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/numpy.png" width="45" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/seaborn.png" width="45" alt="Seaborn" />
 </p>
 
 ### 📊 GitHub Activity
