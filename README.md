@@ -75,9 +75,9 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/numpy.png" width="45" alt="NumPy" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/seaborn.png" width="45" alt="Seaborn" />
 </p>
+</div>
 
 <br />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anibeserra&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" />
