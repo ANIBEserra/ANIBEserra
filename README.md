@@ -22,7 +22,7 @@
 
   <br />
   <h3>About Me</h3>
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pug.png" width="200" align="Right" alt="Pug">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pug.png" width="200" align="Right" alt="Pug">
   <ul align="left">
     🎓 Data Science graduate at Fatec Santana de Parnaíba. I like working with data—even though it drives me crazy most of the time! It’s what allows me to keep learning and constantly evolving. That’s why I’m currently diving deep into DataOps, Governance & Quality. <br/> 
 I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite a while now. <br/>
