@@ -34,19 +34,19 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
    <h3>🛠️ Tech Stack</h3>
 
 **Business Intelligence**
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pbi.png" width="45" alt="Power BI" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/looker-studio.png" width="45" alt="Looker Studio" />
 </p>
 
 **Languages**
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Python" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sql.png" width="45" alt="SQL" />
 </p>
 
 **Data Bases & Cloud**
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/gcs.png" width="45" alt="gcs" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sql-server.png" width="45" alt="SQL Server" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/big-query.png" width="45" alt="BigQuery" />
@@ -56,20 +56,20 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 </p>
 
 **Automation**
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/make.png" width="45" alt="Make" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/n8n.png" width="45" alt="n8n" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Scripts Automation" />
 </p>
 
 **Other Tools**
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/docker.png" width="45" alt="Docker" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/airflow.png" width="45" alt="airflow" />
 </p>
 
 **Frequent Libs & Frameworks**
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sklearn.png" width="45" alt="Scikit-Learn" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pandas.png" width="45" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/numpy.png" width="45" alt="NumPy" />
