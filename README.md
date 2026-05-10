@@ -1,4 +1,4 @@
-<div align="center">
+<div padding="20px" align="center">
   <h1>Hey, I'm Anna Beatriz 👋</h1>
   <p><b>Data Professional | DataOps | Governance | Analytics</b></p>
 
@@ -31,7 +31,7 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 </div>
 
 <div align="center">
-   <h3 align="center">🛠️ Tech Stack</h3>
+   <h3>🛠️ Tech Stack</h3>
 
 **Business Intelligence**
 <p align="left">
