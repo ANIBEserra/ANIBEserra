@@ -30,8 +30,7 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
   </ul>
 </div>
 
-<div align="center"
-### <h3>🛠️ Tech Stack</h3>
+<h3>🛠️ Tech Stack</h3 align="center">
 
 **Business Intelligence**
 <p align="left">
@@ -77,7 +76,6 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 </p>
 
 <br />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anibeserra&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" />
