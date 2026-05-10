@@ -2,55 +2,78 @@
   <h1>Hey, I'm Anna Beatriz 👋</h1>
   <p><b>Data Professional | DataOps | Governance | Analytics</b></p>
 
-  <p>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=flat-square&logo=google-chrome&logoColor=white" />
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/anna-beatriz-beserra-609947212" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://anibeserra.github.io/Portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="mailto:annabeatriz_beserra@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+</p>
 
   <br />
 
-  <table border="0">
-    <tr>
-      <td width="70%" valign="top" align="left">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr border="0">
+      <td width="70%" valign="top" align="left" border="0">
         <h3>About Me</h3>
-        Formada em Ciência de Dados, focada em transformar fluxos complexos em ativos estratégicos. Experiência na otimização do ciclo de vida de dados, atuando desde automação de APIs até governança de ecossistemas Lead-to-Cash.
+        🎓 Degree in Data Science at FATEC Santana de Parnaíba (6/6) <br/>
+        🔎 Data Projects focused on transforming business needs into data-driven estrategic flows.
       </td>
-      <td width="30%" valign="middle" align="center">
+      <td width="30%" valign="middle" align="center" border="0">
         <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Python.png" width="200" alt="Pug" />
       </td>
     </tr>
   </table>
 </div>
 
----
-
 ### 🛠️ Tech Stack
 
-**Languages & Databases**
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+**Business Intelligence**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pbi.png" width="45" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/looker-studio.png" width="45" alt="Looker Studio" />
 </p>
 
-**Automation & Business Intelligence**
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+**Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Python.png" width="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sql.png" width="45" alt="SQL" />
 </p>
 
-**Other Tools & Notions**
-<p>
-  <img src="https://img.shields.io/badge/Docker (Noções)-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+**Data Bases & Cloud**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sql-server.png" width="45" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/big-query.png" width="45" alt="BigQuery" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/postgres.png" width="45" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/mongodb.png" width="45" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/firebase.png" width="45" alt="Firebase" />
 </p>
 
----
+**Automation**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/make.png" width="45" alt="Make" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/n8n.png" width="45" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Python.png" width="45" alt="Scripts Automation" />
+</p>
+
+**Other Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/docker.png" width="45" alt="Docker" />
+</p>
+
+**Frequent Libs & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sklearn.png" width="45" alt="Scikit-Learn" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pandas.png" width="45" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/numpy.png" width="45" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/seaborn.png" width="45" alt="Seaborn" />
+</p>
 
 ### 📊 GitHub Activity
 
