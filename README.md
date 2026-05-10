@@ -26,7 +26,7 @@
         🔎 Data Projects focused on transforming business needs into data-driven estrategic flows.
       </td>
       <td width="30%" valign="middle" align="center" border="0">
-        <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pug.png" width="200" alt="Pug" />
+        <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pug.png" width="200" alt="Pug" />
       </td>
     </tr>
   </table>
