@@ -33,7 +33,7 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 <div align="center">
    <h3>🛠️ Tech Stack</h3>
 
-**Business Intelligence**
+**Data Visualization**
 <p>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pbi.png" width="45" alt="Power BI" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/looker-studio.png" width="45" alt="Looker Studio" />
