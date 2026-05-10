@@ -47,6 +47,7 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 
 **Data Bases & Cloud**
 <p align="left">
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/gcs.png" width="45" alt="gcs" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/sql-server.png" width="45" alt="SQL Server" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/big-query.png" width="45" alt="BigQuery" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/postgres.png" width="45" alt="PostgreSQL" />
@@ -65,7 +66,6 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/docker.png" width="45" alt="Docker" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/airflow.png" width="45" alt="airflow" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/gcs.png" width="45" alt="gcs" />
 </p>
 
 **Frequent Libs & Frameworks**
