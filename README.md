@@ -18,15 +18,17 @@
 
   <br />
 
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr border="0">
-      <td width="70%" valign="top" align="left" border="0">
+  <table border="0">
+    <tr>
+      <td width="70%" valign="top">
         <h3>About Me</h3>
-        🎓 Degree in Data Science at FATEC Santana de Parnaíba (6/6) <br/>
-        🔎 Data Projects focused on transforming business needs into data-driven estrategic flows.
+        <ul>
+          <li>🎓 Degree in Data Science at FATEC Santana de Parnaíba (6/6)</li>
+          <li>🔎 Data Projects focused on transforming business needs into data-driven strategic flows</li>
+        </ul>
       </td>
-      <td width="30%" valign="middle" align="center" border="0">
-        <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pug.png" width="200" alt="Pug" />
+      <td width="30%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pug.png" width="200" alt="Pug">
       </td>
     </tr>
   </table>
@@ -80,8 +82,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anibeserra&show_icons=true&theme=transparent&title_color=7B2CBF&text_color=333&icon_color=7B2CBF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibeserra&layout=compact&theme=transparent&title_color=7B2CBF&text_color=333" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anibeserra&show_icons=true&theme=radical&title_color=7B2CBF&icon_color=7B2CBF&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibeserra&layout=compact&theme=radical&title_color=7B2CBF&hide_border=true" />
 </p>
 
 <br />
