@@ -79,13 +79,6 @@
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/seaborn.png" width="45" alt="Seaborn" />
 </p>
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anibeserra&show_icons=true&theme=radical&title_color=7B2CBF&icon_color=7B2CBF&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibeserra&layout=compact&theme=radical&title_color=7B2CBF&hide_border=true" />
-</p>
-
 <br />
 
 <div align="center">
