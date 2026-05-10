@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sql-server.png" width="45" alt="SQL Server" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/big-query.png" width="45" alt="BigQuery" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/postgres.png" width="45" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/mongodb.png" width="45" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/mongodb.png" width="45" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/firebase.png" width="45" alt="Firebase" />
 </p>
 
