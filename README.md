@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 
-  <a href="https://instagram.com/blbeserra/">
+  <a href="mailto:annabeatriz_beserra@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
 
-  <a href="mailto:annabeatriz_beserra@outlook.com">
+  <a href="https://instagram.com/blbeserra/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
