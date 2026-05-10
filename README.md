@@ -26,7 +26,7 @@
         🔎 Data Projects focused on transforming business needs into data-driven estrategic flows.
       </td>
       <td width="30%" valign="middle" align="center" border="0">
-        <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Python.png" width="200" alt="Pug" />
+        <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pug.png" width="200" alt="Pug" />
       </td>
     </tr>
   </table>
@@ -37,12 +37,12 @@
 **Business Intelligence**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/pbi.png" width="45" alt="Power BI" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/looker-studio.png" width="45" alt="Looker Studio" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/looker-studio.png" width="45" alt="Looker Studio" />
 </p>
 
 **Languages**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Python.png" width="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Python" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/sql.png" width="45" alt="SQL" />
 </p>
 
@@ -59,12 +59,12 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/make.png" width="45" alt="Make" />
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/n8n.png" width="45" alt="n8n" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Python.png" width="45" alt="Scripts Automation" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/Python.png" width="45" alt="Scripts Automation" />
 </p>
 
 **Other Tools**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/docker.png" width="45" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/docker.png" width="45" alt="Docker" />
 </p>
 
 **Frequent Libs & Frameworks**
