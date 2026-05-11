@@ -30,14 +30,17 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
   </ul>
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
+  <h3 align="center">🛠️ Tech Stack</h3>
   <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/mon-avatar2.png" width="200" align="Right" alt="MonAvatar2">
-  <h3>🛠️ Tech Stack</h3>
 
 **Data Visualization**
 <p>
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pbi.png" width="45" alt="Power BI" />
-  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/looker-studio.png" width="45" alt="Looker Studio" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/pbi.png" width="60" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/looker-studio.png" width="60" alt="Looker Studio" />
 </p>
 
 **Languages**
