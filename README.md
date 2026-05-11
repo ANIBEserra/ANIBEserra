@@ -30,10 +30,7 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
   </ul>
 </div>
 
-<br/>
-<br/>
-
-<div align="center">
+<div align="left">
   <h3 align="center">🛠️ Tech Stack</h3>
 
 **Data Visualization**
