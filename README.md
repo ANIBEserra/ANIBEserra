@@ -31,7 +31,8 @@ I was born in Pernambuco, Brazil, but I’ve been living in São Paulo for quite
 </div>
 
 <div align="center">
-   <h3>🛠️ Tech Stack</h3>
+  <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/mon-avatar2.png" width="200" align="Right" alt="MonAvatar2">
+  <h3>🛠️ Tech Stack</h3>
 
 **Data Visualization**
 <p>
