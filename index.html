@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ANIBEserra | Portfólio de Dados</title>
+  <!-- Ícones do FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- SEÇÃO HERO / INTRO -->
+    <section class="intro" id="inicio">
+      <div class="intro__bg" aria-hidden="true">
+        <span class="intro__glow intro__glow--a"></span>
+        <span class="intro__glow intro__glow--b"></span>
+        <span class="intro__glow intro__glow--c"></span>
+      </div>
+
+      <!-- Imagem de Perfil / Avatar Central -->
+      <div class="intro__visual" aria-hidden="true">
+        <div class="avatar">
+          <img src="https://raw.githubusercontent.com/ANIBEserra/ANIBEserra/main/Icons/mon-avatar.png" alt="MonAvatar" class="avatar__img">
+        </div>
+      </div>
+
+      <!-- Lado Esquerdo: Saudação e Nome -->
+      <div class="intro__left">
+        <p class="intro__hello">Bem vindo(a)! Sou</p>
+        <h1 class="intro__name" aria-label="ANIBEserra">
+          <span class="intro__line">ANIBE</span>
+          <span class="intro__line intro__line--alt">SERRA</span>
+        </h1>
+        <div class="intro__actions">
+          <a class="btn btn--accent" href="#projetos">Ver projetos</a>
+          <a class="btn btn--ghost" href="assets/cv/Curriculo.pdf" download>Currículo ↓</a>
+        </div>
+      </div>
+
+      <!-- Lado Direito: Cargo e Descrição -->
+      <div class="intro__right">
+        <p class="intro__label">Data & AI Engineer · Cientista de Dados</p>
+        <p class="intro__role">
+          <span class="intro__swap">
+            <span>Pipelines &amp; ETL</span>
+            <span>BigQuery &amp; SQL</span>
+            <span>Analytics &amp; BI</span>
+          </span>
+        </p>
+        <p class="intro__summary">Desenvolvo soluções robustas de dados de ponta a ponta: pipelines automatizados, arquiteturas eficientes e dashboards analíticos para suporte à decisão.</p>
+      </div>
+
+      <!-- Redes Sociais -->
+      <div class="intro__social">
+        <a href="https://github.com/ANIBEserra" target="_blank" rel="noopener" aria-label="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="https://linkedin.com" target="_blank" rel="noopener" aria-label="LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="mailto:seu-email@exemplo.com" aria-label="E-mail">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </div>
+
+      <a class="intro__hint" href="#sobre">Role para conhecer ↓</a>
+    </section>
+
+<!-- ===== Sobre Mim / Perfil Profissional (Deck de Cards) ===== -->
+    <section class="about" id="sobre">
+      <div class="about__copy">
+        <h2 class="section-title">Sobre mim</h2>
+        <p class="about__text">
+          Sou engenheira de dados focada em construir soluções robustas de ponta a ponta. Atuo na modelagem e automação de pipelines de dados, garantindo alta eficiência no processamento de grandes volumes de informações e estruturando dashboards analíticos que transformam dados complexos em decisões estratégicas.
+        </p>
+      </div>
+
+      <!-- Container do Deck de Cards Estilo Baralho -->
+      <div class="about-deck-wrapper">
+        <div class="about-deck" id="aboutDeck">
+          
+          <!-- Card 01: Formação & Acadêmico -->
+          <article class="about__card active" style="--card-order: 0;">
+            <div class="card-header-badge">📌 Formação Principal</div>
+            <p class="label">Formação &amp; Acadêmico</p>
+            <ol class="timeline">
+              <li>
+                <span class="timeline__period">Atual</span>
+                <div>
+                  <h3>Engenharia de Dados &amp; BI</h3>
+                  <p class="timeline__role">Especialização &amp; Projetos Práticos</p>
+                  <p>Foco em arquiteturas de dados modernas, GCP, BigQuery e otimização de fluxos analíticos.</p>
+                </div>
+              </li>
+            </ol>
+            <div class="deck-footer">
+              <span class="deck-counter">Card 1 de 2</span>
+              <span class="deck-hint">Deslize para trocar 👉</span>
+            </div>
+          </article>
+
+          <!-- Card 02: Principais Competências, Idiomas e Cursos -->
+          <article class="about__card next" style="--card-order: 1;">
+            <div class="card-header-badge">📌 Competências &amp; Idiomas</div>
+            <p class="label">Principais Competências</p>
+            <ul class="certs">
+              <li><span class="certs__org">Cloud &amp; Big Data</span> <span class="certs__name">Google Cloud Platform, BigQuery, SQL Avançado</span> <em>Core</em></li>
+              <li><span class="certs__org">Engenharia</span> <span class="certs__name">Pipelines ETL/ELT, Modelagem de Dados, Python</span> <em>Automação</em></li>
+              <li><span class="certs__org">Analytics</span> <span class="certs__name">Data Viz, Dashboards de Monitoramento, BI</span> <em>Insights</em></li>
+            </ul>
+
+            <p class="about__sub">Idiomas</p>
+            <p class="langs">Português nativo, inglês técnico para documentação e desenvolvimento.</p>
+            
+            <div class="deck-footer">
+              <span class="deck-counter">Card 2 de 2</span>
+              <span class="deck-hint">Deslize para trocar 👉</span>
+            </div>
+          </article>
+
+        </div>
+
+        <!-- Indicadores de Pontinho (Paginação) -->
+        <div class="deck-dots">
+          <span class="dot active" data-index="0"></span>
+          <span class="dot" data-index="1"></span>
+        </div>
+      </div>
+    </section>
+
+<!-- ===== Meu Dia a Dia e Interesses (Stacked Cards) ===== -->
+    <section class="services" id="dia-a-dia">
+      <div class="services__inner">
+        <h2 class="label">Meu dia a dia &amp; Interesses</h2>
+        <p class="services__intro">
+          Combino análise técnica de dados, governança corporativa, engenharia em nuvem e experimentos com inteligência artificial para construir soluções de impacto.
+        </p>
+
+        <div class="services__stack">
+          <!-- Card 01 -->
+          <article class="service-card" style="--card-index: 1;">
+            <span class="service-card__num">01</span>
+            <div class="service-card__content">
+              <h3 class="service-card__title">Governança &amp; Qualidade de Dados</h3>
+              <p class="service-card__desc">
+                Coleta, organização e higienização de bases corporativas volumosas. Mapeamento da linhagem de dados no ecossistema de backoffice (Lead-to-Cash), identificação de gargalos e estruturação de Data Catalogs e dicionários funcionais no Confluence.
+              </p>
+              <ul class="chips">
+                <li>Data Governance</li><li>Lead-to-Cash</li><li>Data Catalog</li><li>Confluence</li><li>Qualidade de Dados</li>
+              </ul>
+            </div>
+            <div class="service-card__media">
+              <div class="media-box">
+                <i class="fas fa-shield-alt"></i>
+              </div>
+            </div>
+          </article>
+
+          <!-- Card 02 -->
+          <article class="service-card" style="--card-index: 2;">
+            <span class="service-card__num">02</span>
+            <div class="service-card__content">
+              <h3 class="service-card__title">Business Intelligence &amp; Dashboards</h3>
+              <p class="service-card__desc">
+                Desenvolvimento do ciclo completo no Power BI e Looker Studio. Construção de KPIs e OKRs com atualização incremental, RLS (Row-Level Security), DAX avançado e relatórios automatizados via Google Apps Script.
+              </p>
+              <ul class="chips">
+                <li>Power BI</li><li>Looker Studio</li><li>DAX</li><li>RLS</li><li>Apps Script</li><li>KPIs / OKRs</li>
+              </ul>
+            </div>
+            <div class="service-card__media">
+              <div class="media-box">
+                <i class="fas fa-chart-pie"></i>
+              </div>
+            </div>
+          </article>
+
+          <!-- Card 03 -->
+          <article class="service-card" style="--card-index: 3;">
+            <span class="service-card__num">03</span>
+            <div class="service-card__content">
+              <h3 class="service-card__title">Engenharia Cloud &amp; SQL Avançado</h3>
+              <p class="service-card__desc">
+                Ingestão, organização e tratamento de dados brutos em ambiente GCP (BigQuery e Cloud Storage). Escrita e otimização de consultas SQL complexas (CTEs, Window Functions, Stored Procedures) e pipelines ETL/ELT.
+              </p>
+              <ul class="chips">
+                <li>GCP BigQuery</li><li>Databricks (PySpark)</li><li>SQL Server</li><li>PostgreSQL</li><li>Pipelines ETL/ELT</li>
+              </ul>
+            </div>
+            <div class="service-card__media">
+              <div class="media-box">
+                <i class="fas fa-database"></i>
+              </div>
+            </div>
+          </article>
+
+          <!-- Card 04 -->
+          <article class="service-card" style="--card-index: 4;">
+            <span class="service-card__num">04</span>
+            <div class="service-card__content">
+              <h3 class="service-card__title">IA Generativa, RAG &amp; Automação</h3>
+              <p class="service-card__desc">
+                Construção de aplicações interativas com agentes de IA e RAG (Retrieval-Augmented Generation). Automação de rotinas em Python (web scraping e consumo de APIs REST) e fluxos em plataformas No-Code como N8N e Make.
+              </p>
+              <ul class="chips">
+                <li>Python</li><li>Streamlit</li><li>RAG &amp; LLMs</li><li>N8N / Make</li><li>APIs REST</li>
+              </ul>
+            </div>
+            <div class="service-card__media">
+              <div class="media-box">
+                <i class="fas fa-robot"></i>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+<!-- ===== Experiência / Carreira ===== -->
+    <section class="xp" id="experiencia">
+      <h2 class="section-title" data-reveal="lines">Experiência</h2>
+      
+      <div class="jobs">
+        <!-- Experiência 1: Equifax -->
+        <article class="job" data-reveal="fade">
+          <button class="job__head" type="button" aria-expanded="false" aria-controls="job-equifax" onclick="toggleJob(this)">
+            <span class="job__period">01/2026 - Atual</span>
+            <span class="job__main">
+              <span class="job__company">Equifax | Boa Vista</span>
+              <span class="job__role">Junior Data Governance Analyst / Analista de Dados</span>
+            </span>
+            <span class="job__summary">Coleta, organização e análise de grandes volumes de dados no ecossistema Big Data corporativo.</span>
+            <span class="job__toggle" aria-hidden="true"></span>
+            <span class="sr-only">Ver tudo o que fiz na Equifax</span>
+          </button>
+          
+          <div class="job__panel" id="job-equifax" role="region" aria-label="O que fiz na Equifax">
+            <div class="job__panel-inner">
+              <ul class="job__list">
+                <li><strong>Consistência e Confiabilidade:</strong> <span>Coleta, organização e análise de grandes volumes de dados no ecossistema Big Data corporativo, garantindo a consistência, integridade e confiabilidade dos ativos analíticos[cite: 10].</span></li>
+                <li><strong>Dashboards Executivos:</strong> <span>Desenvolvimento de painéis executivos e relatórios de acompanhamento de indicadores no Looker Studio e Google Apps Script[cite: 10].</span></li>
+                <li><strong>Qualidade de Dados:</strong> <span>Aplicação de regras de qualidade de dados e algoritmos de similaridade para identificação, higienização e tratamento de inconsistências[cite: 10].</span></li>
+                <li><strong>Linhagem e Backoffice:</strong> <span>Mapeamento da linhagem de dados no ecossistema de backoffice (Lead-to-Cash), identificando gargalos operacionais e garantindo rastreabilidade[cite: 10].</span></li>
+                <li><strong>Data Catalog:</strong> <span>Elaboração de documentações funcionais, dicionários de dados e estruturação do Data Catalog no Confluence[cite: 10].</span></li>
+              </ul>
+              <ul class="job__tags">
+                <li>Big Data</li><li>Looker Studio</li><li>Google Apps Script</li><li>Data Governance</li><li>Confluence</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <!-- Experiência 2: Visionary -->
+        <article class="job" data-reveal="fade">
+          <button class="job__head" type="button" aria-expanded="false" aria-controls="job-visionary" onclick="toggleJob(this)">
+            <span class="job__period">04/2025 - 10/2025</span>
+            <span class="job__main">
+              <span class="job__company">Visionary</span>
+              <span class="job__role">Analista de Solução em Dados</span>
+            </span>
+            <span class="job__summary">Ingestão e tratamento de dados em GCP, estruturando bases analíticas e pipelines para inteligência de mercado.</span>
+            <span class="job__toggle" aria-hidden="true"></span>
+            <span class="sr-only">Ver tudo o que fiz na Visionary</span>
+          </button>
+          
+          <div class="job__panel" id="job-visionary" role="region" aria-label="O que fiz na Visionary">
+            <div class="job__panel-inner">
+              <ul class="job__list">
+                <li><strong>Ambiente GCP:</strong> <span>Ingestão, organização e tratamento de dados brutos em BigQuery e Cloud Storage, estruturando bases analíticas e pipelines[cite: 11].</span></li>
+                <li><strong>Automação com Python e N8N:</strong> <span>Desenvolvimento de scripts em Python e fluxos em plataformas de integração (N8N/Make) para eliminação de tarefas manuais e otimização de KPIs[cite: 11].</span></li>
+                <li><strong>Integração ETL/ELT:</strong> <span>Construção e sustentação de pipelines integrando APIs REST e bancos de dados relacionais e NoSQL (PostgreSQL e Firebase)[cite: 11].</span></li>
+              </ul>
+              <ul class="job__tags">
+                <li>BigQuery</li><li>GCP</li><li>Python</li><li>N8N / Make</li><li>PostgreSQL</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <!-- Experiência 3: J&C Gestão de Riscos -->
+        <article class="job" data-reveal="fade">
+          <button class="job__head" type="button" aria-expanded="false" aria-controls="job-jc" onclick="toggleJob(this)">
+            <span class="job__period">12/2024 - 12/2025</span>
+            <span class="job__main">
+              <span class="job__company">J&C Gestão de Riscos</span>
+              <span class="job__role">Assistente de Dados</span>
+            </span>
+            <span class="job__summary">Escrita e otimização de consultas SQL avançadas e desenvolvimento no Power BI.</span>
+            <span class="job__toggle" aria-hidden="true"></span>
+            <span class="sr-only">Ver tudo o que fiz na J&C Gestão de Riscos</span>
+          </button>
+          
+          <div class="job__panel" id="job-jc" role="region" aria-label="O que fiz na J&C Gestão de Riscos">
+            <div class="job__panel-inner">
+              <ul class="job__list">
+                <li><strong>Otimização de Consultas SQL:</strong> <span>Escrita de CTEs, Window Functions, Joins, Stored Procedures e Views no SQL Server, reduzindo o tempo de carregamento de relatórios[cite: 11].</span></li>
+                <li><strong>Data Visualization:</strong> <span>Desenvolvimento do ciclo completo no Microsoft Power BI com KPIs, OKRs, atualização incremental e RLS[cite: 11].</span></li>
+                <li><strong>Modelagem de Dados:</strong> <span>Modelagem relacional e dimensional para estruturação de bases analíticas focadas em suporte financeiro e estratégico[cite: 11].</span></li>
+              </ul>
+              <ul class="job__tags">
+                <li>SQL Server</li><li>Power BI</li><li>DAX</li><li>Modelagem Dimensional</li><li>Scrum/Kanban</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <!-- Experiência 4: Ladeira Armarinhos -->
+        <article class="job" data-reveal="fade">
+          <button class="job__head" type="button" aria-expanded="false" aria-controls="job-ladeira" onclick="toggleJob(this)">
+            <span class="job__period">07/2024 - 12/2024</span>
+            <span class="job__main">
+              <span class="job__company">Ladeira Armarinhos</span>
+              <span class="job__role">Estagiária em Análise de Dados</span>
+            </span>
+            <span class="job__summary">Extração de dados de e-commerce e inventário via ERP SAP Business One HANA.</span>
+            <span class="job__toggle" aria-hidden="true"></span>
+            <span class="sr-only">Ver tudo o que fiz na Ladeira Armarinhos</span>
+          </button>
+          
+          <div class="job__panel" id="job-ladeira" role="region" aria-label="O que fiz na Ladeira Armarinhos">
+            <div class="job__panel-inner">
+              <ul class="job__list">
+                <li><strong>Extração de Dados SAP:</strong> <span>Coleta de dados transacionais de e-commerce, vendas e inventário provenientes do ERP SAP Business One HANA através de SQL[cite: 11].</span></li>
+                <li><strong>Automação em Python:</strong> <span>Desenvolvimento de scripts automatizados (Pandas e web scraping com Selenium) para limpeza e pré-processamento de bases operacionais[cite: 11].</span></li>
+                <li><strong>Relatórios de KPIs:</strong> <span>Criação de dashboards no Power BI e Excel para acompanhamento de indicadores comerciais, faturamento e giro de estoque[cite: 11].</span></li>
+              </ul>
+              <ul class="job__tags">
+                <li>SAP HANA</li><li>Python (Pandas)</li><li>Selenium</li><li>Power BI</li><li>Excel</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+<!-- ===== Seção de Projetos ===== -->
+    <section class="work" id="projetos">
+      <h2 class="section-title">Projetos</h2>
+
+      <!-- Container do Carrossel de Projetos -->
+      <div class="projects-container">
+        <div class="projects-track">
+          
+          <!-- Projeto 1: AI Election 2026 RAG Agent (Direto para o Streamlit) -->
+          <a class="project" href="https://ai-election2026-rag-agent.streamlit.app/" target="_blank" rel="noopener">
+            <div class="project__media">
+              <div class="project__zoom">
+                <img src="https://raw.githubusercontent.com/ANIBEserra/ai-election2026-rag-agent/main/docs/cover.png" alt="AI Election 2026 RAG Agent" loading="lazy" decoding="async">
+              </div>
+            </div>
+            <div class="project__meta">
+              <span class="project__name"><i style="--c:#6d4dff"></i>AI Election 2026 RAG Agent</span>
+              <span class="project__info"><span>App Interativo</span> <span>2026</span></span>
+            </div>
+            <div class="project__tags">
+              <span>Python</span> <span>Streamlit</span> <span>RAG</span> <span>LLM</span>
+            </div>
+          </a>
+
+        </div>
+      </div>
+
+      <a class="link-arrow" href="https://github.com/ANIBEserra" target="_blank" rel="noopener">Mais no GitHub <span aria-hidden="true">→</span></a>
+    </section>
+
+<!-- ===== Seção Stack Tecnológica (Layout Cards Verticais) ===== -->
+    <section class="stack" id="stack">
+      <h2 class="section-title">Stack Tecnológica &amp; Ferramentas</h2>
+
+      <div class="stack-container">
+        <div class="stack-track">
+          
+          <!-- Card 1: Cloud & Big Data -->
+          <article class="stack-card">
+            <div class="stack-card__header">
+              <span class="stack-card__tag">ENGINEERING</span>
+              <h3 class="stack-card__title">Cloud &amp; Big Data</h3>
+              <ul class="stack-card__list">
+                <li><span class="check-icon">✓</span> GCP (BigQuery, Cloud Storage)</li>
+                <li><span class="check-icon">✓</span> Databricks &amp; PySpark</li>
+                <li><span class="check-icon">✓</span> SQL Avançado &amp; CTEs</li>
+                <li><span class="check-icon">✓</span> Python (Pandas, APIs REST)</li>
+              </ul>
+            </div>
+            <div class="stack-card__preview preview--purple">
+              <div class="preview-badge">DATA LAKEHOUSE</div>
+            </div>
+          </article>
+
+          <!-- Card 2: Analytics & Data Viz (Destaque Lilás) -->
+          <article class="stack-card stack-card--featured">
+            <div class="stack-card__header">
+              <span class="stack-card__tag">BUSINESS INTEL</span>
+              <h3 class="stack-card__title">Analytics &amp; Data Viz</h3>
+              <ul class="stack-card__list">
+                <li><span class="check-icon">✓</span> Power BI (DAX, RLS, Incremental)</li>
+                <li><span class="check-icon">✓</span> Looker Studio Executivo</li>
+                <li><span class="check-icon">✓</span> Dashboards de KPIs &amp; OKRs</li>
+                <li><span class="check-icon">✓</span> Google Apps Script</li>
+              </ul>
+            </div>
+            <div class="stack-card__preview preview--featured">
+              <div class="preview-badge">DASHBOARDS</div>
+            </div>
+          </article>
+
+          <!-- Card 3: Governança & Qualidade -->
+          <article class="stack-card">
+            <div class="stack-card__header">
+              <span class="stack-card__tag">GOVERNANCE</span>
+              <h3 class="stack-card__title">Governança &amp; Qualidade</h3>
+              <ul class="stack-card__list">
+                <li><span class="check-icon">✓</span> Data Governance &amp; Linhagem</li>
+                <li><span class="check-icon">✓</span> Catalogação &amp; Dicionários</li>
+                <li><span class="check-icon">✓</span> Modelagem Relacional &amp; Dimensional</li>
+                <li><span class="check-icon">✓</span> Higienização &amp; Acurácia</li>
+              </ul>
+            </div>
+            <div class="stack-card__preview preview--dark">
+              <div class="preview-badge">DATA CATALOG</div>
+            </div>
+          </article>
+
+          <!-- Card 4: Automação & Bancos -->
+          <article class="stack-card">
+            <div class="stack-card__header">
+              <span class="stack-card__tag">AUTOMATION</span>
+              <h3 class="stack-card__title">Automação &amp; Databases</h3>
+              <ul class="stack-card__list">
+                <li><span class="check-icon">✓</span> N8N / Make (Automações)</li>
+                <li><span class="check-icon">✓</span> PostgreSQL, SQL Server, Firebase</li>
+                <li><span class="check-icon">✓</span> CI/CD com Git &amp; GitHub Actions</li>
+                <li><span class="check-icon">✓</span> Scrum / Kanban (Azure DevOps)</li>
+              </ul>
+            </div>
+            <div class="stack-card__preview preview--blue">
+              <div class="preview-badge">WORKFLOWS</div>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+<!-- ===== Seção Contato / Rodapé ===== -->
+    <footer class="footer" id="contato">
+      <div class="footer__content">
+        <span class="footer__tag">CONTATO &amp; NETWORKING</span>
+        <h2 class="footer__title">Vamos trabalhar juntos?</h2>
+        <p class="footer__text">
+          Estou aberta a conexões, novas oportunidades em dados e inovação ou troca de ideias sobre IA.
+        </p>
+
+        <div class="footer__actions">
+          <a href="mailto:annabeatriz_beserra@outlook.com" class="btn btn--primary">
+            Fale Comigo <i class="fas fa-paper-plane"></i>
+          </a>
+          <a href="https://linkedin.com/in/anna-beatriz-beserra" target="_blank" rel="noopener" class="btn btn--secondary">
+            LinkedIn <span aria-hidden="true">↗</span>
+          </a>
+          <a href="https://github.com/ANIBEserra" target="_blank" rel="noopener" class="btn btn--secondary">
+            GitHub <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="footer__bottom">
+        <p>© 2026 Anna Beatriz Beserra. Desenvolvido com HTML, CSS e JavaScript.</p>
+      </div>
+    </footer>
+
+
+    <script>
+  const deck = document.getElementById('aboutDeck');
+  const dots = document.querySelectorAll('.deck-dots .dot');
+  
+  if (deck) {
+    let startX = 0;
+    let currentX = 0;
+    let isDragging = false;
+    const threshold = 100; // Distância mínima para validar a troca
+
+    const getClientX = (e) => e.touches ? e.touches[0].clientX : e.clientX;
+
+    function handleStart(e) {
+      isDragging = true;
+      startX = getClientX(e);
+      const topCard = deck.querySelector('.about__card');
+      if (topCard) topCard.style.transition = 'none'; // Remove transição para seguir o dedo instantaneamente
+    }
+
+    function handleMove(e) {
+      if (!isDragging) return;
+      currentX = getClientX(e);
+      const diffX = currentX - startX;
+      
+      const topCard = deck.querySelector('.about__card');
+      if (topCard) {
+        // Move o card e aplica uma leve rotação proporcional ao movimento (para esquerda ou direita)
+        const rotation = diffX * 0.05;
+        topCard.style.transform = `translateX(${diffX}px) rotate(${rotation}deg) scale(1)`;
+      }
+    }
+
+    function handleEnd() {
+      if (!isDragging) return;
+      isDragging = false;
+      
+      const diffX = currentX - startX;
+      const topCard = deck.querySelector('.about__card');
+      
+      if (!topCard) return;
+
+      // Restaura a transição suave
+      topCard.style.transition = 'transform 0.5s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.5s ease';
+
+      // Se o arraste passou do limite para qualquer um dos lados
+      if (Math.abs(diffX) > threshold) {
+        // Direção para onde foi (1 para direita, -1 para esquerda)
+        const direction = diffX > 0 ? 1 : -1;
+        
+        // Joga o card para fora da tela na direção do swipe
+        topCard.style.transform = `translateX(${direction * 120}%) rotate(${direction * 15}deg) scale(0.96)`;
+        topCard.style.opacity = '0';
+
+        setTimeout(() => {
+          topCard.style.transform = '';
+          topCard.style.opacity = '';
+          deck.appendChild(topCard); // Vai para o fundo da pilha
+          updateDots();
+        }, 450);
+      } else {
+        // Se não passou do limite, o card volta suavemente para o centro
+        topCard.style.transform = 'translateX(0) rotate(0deg) scale(1)';
+      }
+
+      startX = 0;
+      currentX = 0;
+    }
+
+    function updateDots() {
+      const cards = deck.querySelectorAll('.about__card');
+      dots.forEach((dot, idx) => {
+        if (idx === 0 && cards[0].querySelector('.label').textContent.includes('Formação')) {
+          dot.classList.add('active');
+        } else if (idx === 1 && cards[0].querySelector('.label').textContent.includes('Competências')) {
+          dot.classList.add('active');
+        } else {
+          dot.classList.remove('active');
+        }
+      });
+    }
+
+    // Eventos de Mouse
+    deck.addEventListener('mousedown', handleStart);
+    window.addEventListener('mousemove', handleMove);
+    window.addEventListener('mouseup', handleEnd);
+
+    // Eventos de Touch (Celular / Tablet)
+    deck.addEventListener('touchstart', handleStart, {passive: true});
+    window.addEventListener('touchmove', handleMove, {passive: true});
+    window.addEventListener('touchend', handleEnd);
+  }
+    </script>
+
+    <!-- Lenis Smooth Scroll CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.29/dist/lenis.min.js"></script>
+    <script>
+      const lenis = new Lenis({
+        duration: 1.2,
+        easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+        smoothWheel: true
+      });
+
+      function raf(time) {
+        lenis.raf(time);
+        requestAnimationFrame(raf);
+      }
+      requestAnimationFrame(raf);
+    </script>
+
+      <!-- Script principal do portfólio -->
+    <script src="../ANIBEserra/js/script.js"></script>
+
+</body>
+</html>
